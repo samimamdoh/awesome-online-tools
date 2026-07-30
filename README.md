@@ -61,11 +61,14 @@
 
 - **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
 - **[duration.tools](https://duration.tools/)** — 32 time and duration calculators: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
+- **[ZonePlan](https://zoneplan.net/)** — A free meeting planner for distributed teams that compares local dates, working-hour overlap, and daylight-saving changes across major cities without requiring an account.
 - **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
 
 ## Files, PDF & Media
 
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
+- **[iWorkViewer](https://iworkviewer.com/)** — Browser-friendly compatibility guidance for opening and converting Apple Pages, Numbers, and Keynote files on Windows.
+- **[InvoicePad](https://invoicepad.net/)** — A privacy-first invoice generator for freelancers and small businesses with instant PDF export, no sign-up, and browser-side processing.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
@@ -73,6 +76,7 @@
 ## Images, Icons & Design
 
 - **[collage.tools](https://collage.tools/)** — A photo collage maker with smart grid layouts, seamless social carousels, before/after comparison sliders, and freeform moodboards with on-device color-palette extraction.
+- **[LivePhotoKit](https://livephotokit.com/)** — A free in-browser toolkit for converting HEIC images and extracting JPG/MP4 assets from Apple LIVP and Live Photo files without account creation.
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
