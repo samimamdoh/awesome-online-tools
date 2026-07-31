@@ -35,6 +35,7 @@
 - **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
 - **[DevToys](https://devtoys.app/)** — An open-source offline "developer's Swiss Army knife" bundling formatters, converters, and generators into a native app.
 - **[Transform.tools](https://transform.tools/)** — Convert between dozens of formats: JSON to TypeScript, SVG to JSX, CSS to JS, GraphQL to code, and many more.
+- **[Developer Tools](https://tools.merrt.com.tr/)** — 20+ browser-based dev utilities in one place: JSON/XML/YAML formatters and converters, a JWT decoder with signature verification, a diff checker, MD5/SHA hashing (files too), base64, regex, cron and more. Runs fully client-side, open source (MIT).
 
 ## Data & Testing
 
