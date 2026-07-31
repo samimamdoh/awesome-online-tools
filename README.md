@@ -18,6 +18,7 @@
 - [Arabic & Typography](#arabic--typography)
 - [Islamic Tools](#islamic-tools)
 - [Education & Learning](#education--learning)
+- [Home & Construction Calculators](#home--construction-calculators)
 - [Weather](#weather)
 
 ---
@@ -115,6 +116,10 @@
 
 
 ---
+
+## Home & Construction Calculators
+
+- **[Concrete Estimator Hub](https://concreteestimatorhub.com/)** — Free concrete calculators for slabs, bag counts, ready-mix comparisons, post holes, footings, and project-cost planning.
 
 ## 🤝 Contributing
 
