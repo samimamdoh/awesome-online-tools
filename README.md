@@ -69,6 +69,7 @@
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
+- **[Video Size Reducer](https://videosizereducer.org/)** — Compress MP4 to a target file size (10/25/50 MB or custom) or a quality preset, entirely in the browser via WebCodecs — nothing is uploaded.
 
 ## Images, Icons & Design
 
