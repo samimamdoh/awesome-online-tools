@@ -79,6 +79,8 @@
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
+- **[Codex Theme Builder](https://codextheme.tools/)** — Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+- **[Image to Crochet Pattern](https://imagetocrochetpattern.com/)** — Free tool that converts images into crochet patterns in the browser.
 
 ## QR & Business Cards
 
@@ -112,7 +114,13 @@
 - **[The Odin Project](https://www.theodinproject.com/)** — A free, open-source full-stack curriculum built around real projects.
 - **[MDN Web Docs](https://developer.mozilla.org/)** — The open reference for web standards: HTML, CSS, JavaScript, and browser APIs.
 
+## Calculators & Everyday Tools
 
+- **[WattsCalc](https://wattscalc.com/)** — Free wattage and electricity cost calculator for appliances and devices.
+- **[Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/)** — Free calculator for lawn mowing cost estimates by area, rate, and extras.
+- **[Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/)** — Free embroidery job pricing from stitches, fabric, and labor.
+- **[Pressure Washer Fix](https://pressurewasherfix.com/)** — Free troubleshooting guides for common pressure washer problems.
+- **[SkyCOTL Tools](https://skycotl.tools/)** — Free guides and calculators for Sky: Children of the Light.
 
 ---
 
