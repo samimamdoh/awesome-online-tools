@@ -30,6 +30,7 @@
 
 ## Developer Utilities
 
+- **[Atomic Productivity](https://atomicproductivity.com/)** — Free browser-based productivity suite: task breakdown, brain dump, Pomodoro timer, focus sound mixer, ADHD self-assessment, decision matrix, friction calculator, and deep work ROI calculator — no signup, no install, all client-side.
 - **[decoder.tools](https://decoder.tools/)** — A decoding multitool with 90 decoders and parsers on one bench: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers, VINs, and other structured IDs — each with a field-level readout instead of a raw blob.
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The open-source "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression, and data analysis.
 - **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
