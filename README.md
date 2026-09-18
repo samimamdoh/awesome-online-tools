@@ -34,6 +34,7 @@
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The open-source "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression, and data analysis.
 - **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
 - **[DevToys](https://devtoys.app/)** — An open-source offline "developer's Swiss Army knife" bundling formatters, converters, and generators into a native app.
+- **[NextReset](https://nextreset.ai/)** — Free Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
 - **[Transform.tools](https://transform.tools/)** — Convert between dozens of formats: JSON to TypeScript, SVG to JSX, CSS to JS, GraphQL to code, and many more.
 
 ## Data & Testing
