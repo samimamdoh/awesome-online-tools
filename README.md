@@ -15,6 +15,7 @@
 - [Images, Icons & Design](#images-icons--design)
 - [QR & Business Cards](#qr--business-cards)
 - [Resume & Career](#resume--career)
+- [Freelance & Client Docs](#freelance--client-docs)
 - [Arabic & Typography](#arabic--typography)
 - [Islamic Tools](#islamic-tools)
 - [Education & Learning](#education--learning)
@@ -90,6 +91,11 @@
 - **[Cviya.com](https://cviya.com/)** — A 100% free, ATS-friendly CV builder with a drag-and-drop editor, live preview, AI-assisted writing, and clean PDF/PNG export — multilingual (EN, FR, ES, AR, DE) with full right-to-left support.
 - **[Reactive Resume](https://rxresu.me/)** — A free, open-source resume builder with dozens of templates and no tracking.
 - **[OpenResume](https://www.open-resume.com/)** — An open-source resume builder and ATS-readiness checker.
+
+
+## Freelance & Client Docs
+
+- **[Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/)** — Free, MIT-licensed browser tools for freelancers: invoice, quote, receipt, rate calculator, SOW, timesheet, and more — no signup, print or save as PDF.
 
 ## Arabic & Typography
 
