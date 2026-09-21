@@ -60,6 +60,7 @@
 ## Time & Date
 
 - **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
+- **[NextReset](https://nextreset.ai/)** — A no-sign-up, browser-local countdown paired with source-linked public Codex reset history and official AI service incident references.
 - **[duration.tools](https://duration.tools/)** — 32 time and duration calculators: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
 - **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
 
