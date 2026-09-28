@@ -72,6 +72,7 @@
 
 ## Images, Icons & Design
 
+- **[Image to ASCII](https://imagetoascii.art/)** — Free, no-signup image-to-character converter that processes images locally in your browser and exports TXT, PNG and SVG.
 - **[collage.tools](https://collage.tools/)** — A photo collage maker with smart grid layouts, seamless social carousels, before/after comparison sliders, and freeform moodboards with on-device color-palette extraction.
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
