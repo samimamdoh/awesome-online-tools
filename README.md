@@ -76,6 +76,7 @@
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
+- **[Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer)** - Resize JPG, PNG and WebP images in your browser without uploading them.
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
