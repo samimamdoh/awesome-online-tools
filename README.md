@@ -35,6 +35,7 @@
 - **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
 - **[DevToys](https://devtoys.app/)** — An open-source offline "developer's Swiss Army knife" bundling formatters, converters, and generators into a native app.
 - **[Transform.tools](https://transform.tools/)** — Convert between dozens of formats: JSON to TypeScript, SVG to JSX, CSS to JS, GraphQL to code, and many more.
+- **[JSON formatter and validator](https://www.firmbeacon.co.uk/tools/json-formatter?utm_source=github&utm_medium=repository&utm_campaign=json_formatter)** — Format, minify and validate JSON locally in your browser. No signup, and the JSON text is not uploaded or saved.
 
 ## Data & Testing
 
@@ -76,6 +77,7 @@
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
+- **[Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer)** - Resize JPG, PNG and WebP images in your browser without uploading them.
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
