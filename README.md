@@ -67,6 +67,8 @@
 
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
+- **[Firm Beacon PDF Page Numbers](https://www.firmbeacon.co.uk/tools/pdf-page-numbers)** - Add visible page numbers to a PDF in your browser without uploading the file.
+- **[Firm Beacon PDF Form Filler](https://www.firmbeacon.co.uk/tools/pdf-form-filler)** - Fill standard interactive PDF fields in your browser without uploading the file.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
 
@@ -76,6 +78,7 @@
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
+- **[Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer)** - Resize JPG, PNG and WebP images in your browser without uploading them.
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
