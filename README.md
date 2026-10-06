@@ -66,6 +66,7 @@
 ## Files, PDF & Media
 
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
+- **[Firm Beacon PDF Editor](https://www.firmbeacon.co.uk/tools/pdf-editor)** — Add one text or freehand annotation to a PDF page in your browser without uploading the file. The tool does not edit existing PDF text or provide redaction.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
