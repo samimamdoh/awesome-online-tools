@@ -69,6 +69,7 @@
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
+- **[QuietTake Noise Remover](https://noiseremover.site/)** — Remove speech background noise with RNNoise locally in your browser, compare original/cleaned playback, and export WAV; accepts recordings no larger than 50 MB and no longer than five minutes.
 
 ## Images, Icons & Design
 
