@@ -42,6 +42,7 @@
 - **[JSON Crack](https://jsoncrack.com/)** — Open-source visualizer that turns JSON, YAML, and CSV into interactive node graphs.
 - **[Hoppscotch](https://hoppscotch.io/)** — An open-source, in-browser API client for REST, GraphQL, and WebSocket requests.
 - **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** — A free fake REST API for testing and prototyping front-end code.
+- **[BestJSON JSON Diff](https://bestjson.com/json-diff)** — Compare JSON structures locally in the browser and inspect added, removed or changed values by path without signing up.
 
 ## Security & Cryptography
 
