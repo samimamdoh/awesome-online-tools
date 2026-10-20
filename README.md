@@ -79,6 +79,7 @@
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
+- **[BulkPicTools](https://bulkpictools.com)** — Batch compress, convert, resize, and crop images locally in the browser without uploading files.
 
 ## QR & Business Cards
 
