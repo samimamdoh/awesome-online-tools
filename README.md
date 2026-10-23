@@ -13,6 +13,7 @@
 - [Time & Date](#time--date)
 - [Files, PDF & Media](#files-pdf--media)
 - [Images, Icons & Design](#images-icons--design)
+- [Home & Construction](#home--construction)
 - [QR & Business Cards](#qr--business-cards)
 - [Resume & Career](#resume--career)
 - [Arabic & Typography](#arabic--typography)
@@ -79,6 +80,10 @@
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
+
+## Home & Construction
+
+- **[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator)** — Estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice.
 
 ## QR & Business Cards
 
