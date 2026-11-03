@@ -61,6 +61,7 @@
 
 - **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
 - **[duration.tools](https://duration.tools/)** — 32 time and duration calculators: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
+- **[Military Time Converter](https://zequnweb.com/jp/tools/military-time-converter/)** — Free military time converter, 4-digit military time to 12-hour AM/PM and back, with a printable table.
 - **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
 
 ## Files, PDF & Media
