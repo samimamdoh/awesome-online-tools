@@ -18,6 +18,7 @@
 - [Arabic & Typography](#arabic--typography)
 - [Islamic Tools](#islamic-tools)
 - [Education & Learning](#education--learning)
+- [Marketing & Business](#marketing--business)
 - [Weather](#weather)
 
 ---
@@ -111,6 +112,11 @@
 - **[freeCodeCamp](https://www.freecodecamp.org/)** — Free, open-source coding curricula with hands-on projects and certifications.
 - **[The Odin Project](https://www.theodinproject.com/)** — A free, open-source full-stack curriculum built around real projects.
 - **[MDN Web Docs](https://developer.mozilla.org/)** — The open reference for web standards: HTML, CSS, JavaScript, and browser APIs.
+
+## Marketing & Business
+
+- **[Telegram Sponsorship CPM Calculator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/)** — Compare a Telegram sponsorship quote with median post views to estimate CPM using a free, browser-only, MIT-licensed calculator.
+
 
 
 
