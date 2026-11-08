@@ -93,6 +93,7 @@
 
 ## Arabic & Typography
 
+- **[Cursive Generation](https://cursive-generation.com/cursive-generator)** — Free Latin-oriented decorative cursive-font previews with plain-text copy, not styled Unicode; paid fonts and workbooks are separate.
 - **[Arabify.io](https://arabify.io/)** — An Arabic calligraphy studio and logo maker: type any Arabic text, choose an authentic hand (Kufic, Naskh, Diwani, Nastaliq), and export images, brand wordmarks, or animated video — with full harakat.
 - **[Khatly.com](https://khatly.com/)** — An Arabic-native calligraphy generator (Kufic, Naskh, Diwani) with full harakat, premium backgrounds and gradients, live color controls, and high-resolution export for print or web.
 - **[Arabizi.io](https://arabizi.io/)** — An online Arabic keyboard with real-time Latin-to-Arabic (Arabizi) transliteration, a full tashkeel row, and one-tap sharing to WhatsApp, Telegram, and X.
