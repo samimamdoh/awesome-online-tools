@@ -82,6 +82,7 @@
 
 ## QR & Business Cards
 
+- **[Free QR Code Creator](https://free-qr-code-creator.web-free.site/)** — Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up.
 - **[QrFast.io](https://qrfast.io/)** — A QR code generator covering 18+ content types (URL, WiFi, vCard, WhatsApp, crypto, event) with live preview, full styling and a center logo, plus PNG/SVG/JPEG/WEBP export.
 - **[CarteVisite.io](https://cartevisite.io/)** — A double-sided business card maker that runs in the browser: full typography control, logo import, colorable icons, a built-in QR flow, and print-ready high-resolution export.
 
