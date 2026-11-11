@@ -75,6 +75,7 @@
 - **[collage.tools](https://collage.tools/)** — A photo collage maker with smart grid layouts, seamless social carousels, before/after comparison sliders, and freeform moodboards with on-device color-palette extraction.
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
+- **[Free Image Resizer](https://free-image-resizer.web-free.site/en/)** — Resize, compress, crop, rotate and convert images (HEIC, WebP, PNG, JPG) in the browser without uploading files.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
