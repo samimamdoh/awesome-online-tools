@@ -1,7 +1,5 @@
-# 🧰 Awesome Online Tools
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of free and open-source online tools for developers, designers, and creators. Most run right in your browser — no install, no sign-up — and many are fully open source.
+# 🧰 Awesome Onlin
+- **[Free Word Counter](https://free-word-counter.web-free.site/)** — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 
 ## Contents
 
