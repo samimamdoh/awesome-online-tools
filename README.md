@@ -65,6 +65,7 @@
 
 ## Files, PDF & Media
 
+- **[Free PDF Converter](https://free-pdf-converter.web-free.site/)** — Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser.
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
