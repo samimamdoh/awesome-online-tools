@@ -1,5 +1,7 @@
-# 🧰 Awesome Onlin
-- **[Free Word Counter](https://free-word-counter.web-free.site/)** — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
+# 🧰 Awesome Online Tools
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of free and open-source online tools for developers, designers, and creators. Most run right in your browser — no install, no sign-up — and many are fully open source.
 
 ## Contents
 
@@ -27,6 +29,8 @@
 - **[ray.so](https://ray.so/)** — Open-source (Raycast) generator that turns code into clean, minimal images with a tight set of themes and backgrounds.
 
 ## Developer Utilities
+
+- **[Free Word Counter](https://free-word-counter.web-free.site/)** — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 
 - **[decoder.tools](https://decoder.tools/)** — A decoding multitool with 90 decoders and parsers on one bench: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers, VINs, and other structured IDs — each with a field-level readout instead of a raw blob.
 - **[CyberChef](https://gchq.github.io/CyberChef/)** — The open-source "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression, and data analysis.
