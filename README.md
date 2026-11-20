@@ -69,6 +69,7 @@
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
+- **[zippic](https://zippic.app/doc-compressor)** — Free browser-based document compressor for PDF, Word and PowerPoint files; runs locally, no upload, no sign-up.
 
 ## Images, Icons & Design
 
