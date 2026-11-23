@@ -77,6 +77,7 @@
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
 - **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
+- **[PixelArtHive](https://pixelarthive.com/)** — Convert images to pixel art and upscale existing pixel art for free, with local browser processing.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
 
