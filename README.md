@@ -79,6 +79,7 @@
 - **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
 - **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
 - **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
+- **[Reletter](https://aiedittextinimage.com/)** — Edit existing text in images in the browser with free watermarked previews. Clean PNG exports use credits.
 
 ## QR & Business Cards
 
