@@ -62,6 +62,7 @@
 - **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
 - **[duration.tools](https://duration.tools/)** — 32 time and duration calculators: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
 - **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
+- **[Chinese Calendar Explorer](https://chinesefortunetools.com/chinese-calendar/)** — Look up the Chinese lunar date and solar term for a Gregorian date.
 
 ## Files, PDF & Media
 
