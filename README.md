@@ -67,6 +67,7 @@
 
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
+- **[PDF Fan – Insertar páginas en PDF](https://pdf.fan/es/insertar-paginas-pdf/)** — Insert selected pages from a second PDF at a specific position in a document, using a free Spanish-language tool that processes source files in the browser.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
 
