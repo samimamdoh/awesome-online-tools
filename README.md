@@ -72,6 +72,7 @@
 
 ## Images, Icons & Design
 
+- **[StagePeek](https://stagepeek.live)** — Interactive 2D seating charts and custom 3D concert arena sightline simulator with 1x–10x camera zoom across 201 global venues, free to browse with no sign-up.
 - **[collage.tools](https://collage.tools/)** — A photo collage maker with smart grid layouts, seamless social carousels, before/after comparison sliders, and freeform moodboards with on-device color-palette extraction.
 - **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
 - **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
