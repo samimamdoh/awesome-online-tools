@@ -67,6 +67,7 @@
 
 - **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
 - **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
+- **[TinyMast](https://tinymast.com/pdf-compress/)** — Free online PDF and image tools that compress to a size you set: batch image compression with per-file KB targets and ZIP download, plus PDF merge, split, OCR, and Word/Excel/JPG conversion. No account and no watermark.
 - **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
 - **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
 
