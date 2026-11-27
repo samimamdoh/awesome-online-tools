@@ -1,78 +1,128 @@
-# Awesome Online Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🧰 Awesome Online Tools
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/kgohil)
-
-> A curated collection of privacy-first online tools and utilities for
-> developers, designers, and power users. All processing happens in your
-> browser.
-
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list phenomenon.*
+> A curated list of free and open-source online tools for developers, designers, and creators. Most run right in your browser — no install, no sign-up — and many are fully open source.
 
 ## Contents
 
-- [Code Editors & Programming Languages](#code-editors--programming-languages)
-- [Data & Configuration Tools](#data--configuration-tools)
-- [Text & Content Tools](#text--content-tools)
-- [Diagram & Visualization Tools](#diagram--visualization-tools)
-- [Comparison & Analysis Tools](#comparison--analysis-tools)
-- [File Management Tools](#file-management-tools)
-- [DevOps & System Tools](#devops--system-tools)
+- [Code Snippets & Sharing](#code-snippets--sharing)
+- [Developer Utilities](#developer-utilities)
+- [Data & Testing](#data--testing)
+- [Security & Cryptography](#security--cryptography)
+- [URLs, Slugs & SEO](#urls-slugs--seo)
+- [Time & Date](#time--date)
+- [Files, PDF & Media](#files-pdf--media)
+- [Images, Icons & Design](#images-icons--design)
+- [QR & Business Cards](#qr--business-cards)
+- [Resume & Career](#resume--career)
+- [Arabic & Typography](#arabic--typography)
+- [Islamic Tools](#islamic-tools)
+- [Education & Learning](#education--learning)
+- [Weather](#weather)
 
-## Code Editors & Programming Languages
+---
 
-- [HTML/CSS/JS Playground](https://www.tools-online.app/tools/html-css-js) - Online HTML/CSS/JS playground with live preview, three-panel editing, and AI code assistance.
-- [TypeScript Editor](https://www.tools-online.app/tools/typescript) - Online TypeScript editor with real-time compilation, type checking, and AI code assistance.
-- [Python Editor](https://www.tools-online.app/tools/python) - Online Python editor with real-time execution, standard library support, and AI code assistance.
-- [Java Online Editor](https://www.tools-online.app/tools/java) - Online Java editor with JVM support, enterprise development patterns, and AI code assistance.
-- [C/C++ Editor](https://www.tools-online.app/tools/cpp) - Online C/C++ editor with real-time compilation, memory safety features, and AI code assistance.
-- [C# Online Editor](https://www.tools-online.app/tools/csharp) - Online C# editor with .NET framework support, object-oriented programming, and AI code assistance.
-- [Go Editor](https://www.tools-online.app/tools/go) - Write and test Go code with concurrency features, package support, and AI code assistance.
-- [Ruby Editor](https://www.tools-online.app/tools/ruby) - Write and test Ruby code with OOP, limited gem support, and AI code assistance.
-- [PHP Editor](https://www.tools-online.app/tools/php) - Write and test PHP code with web integration, server-side development features, and AI code assistance.
-- [R Online Editor](https://www.tools-online.app/tools/r) - Online R editor for statistical computing and data visualization with AI-powered code assistance.
-- [Julia Editor](https://www.tools-online.app/tools/julia) - Online Julia editor for scientific computing with multiple dispatch support and AI code assistance.
-- [Lua Editor](https://www.tools-online.app/tools/lua) - Lightweight scripting language editor with metatable support for game development and AI code assistance.
-- [SQL Editor](https://www.tools-online.app/tools/sql) - Online SQL editor with query execution, sample databases, and AI query assistance.
-- [PostgreSQL Query Editor](https://www.tools-online.app/tools/postgres) - Advanced PostgreSQL editor with syntax highlighting, query optimization, and AI-powered query assistance.
+## Code Snippets & Sharing
 
-## Data & Configuration Tools
+- **[Codeshot.io](https://codeshot.io/)** — Turn source code, terminal output, logs, and API responses into polished, shareable images. 17 focused generators, syntax highlighting for 18+ languages, real editor themes and premium fonts, and retina PNG or vector SVG export.
+- **[Carbon](https://carbon.now.sh/)** — Open-source tool for creating and sharing beautiful images of your source code, with editor themes and window styling.
+- **[ray.so](https://ray.so/)** — Open-source (Raycast) generator that turns code into clean, minimal images with a tight set of themes and backgrounds.
 
-- [JSON Editor](https://www.tools-online.app/tools/json) - Online JSON
-  editor with formatting, validation, tree view, schema validation, and AI
-  assistance.
-- [YAML Editor](https://www.tools-online.app/tools/yaml) - Online YAML
-  editor with schema validation, multi-document support, and AI assistance.
+## Developer Utilities
 
-## Text & Content Tools
+- **[decoder.tools](https://decoder.tools/)** — A decoding multitool with 90 decoders and parsers on one bench: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers, VINs, and other structured IDs — each with a field-level readout instead of a raw blob.
+- **[CyberChef](https://gchq.github.io/CyberChef/)** — The open-source "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression, and data analysis.
+- **[IT-Tools](https://it-tools.tech/)** — An open-source, self-hostable collection of everyday developer utilities — converters, generators, and formatters — in one clean interface.
+- **[DevToys](https://devtoys.app/)** — An open-source offline "developer's Swiss Army knife" bundling formatters, converters, and generators into a native app.
+- **[Transform.tools](https://transform.tools/)** — Convert between dozens of formats: JSON to TypeScript, SVG to JSX, CSS to JS, GraphQL to code, and many more.
 
-- [Markdown Editor](https://www.tools-online.app/tools/markdown) - Online Markdown editor with live preview, GitHub-flavored syntax, and image support.
-- [AI-Powered Online Notepad](https://www.tools-online.app/tools/notepad) - Online AI-powered notepad with grammar checking, writing assistance, rich text formatting, LaTeX support, and media embedding.
-- [MJML Email Editor](https://www.tools-online.app/tools/mjml) - Online MJML editor with real-time compilation, responsive email design, and AI-powered template generation.
+## Data & Testing
 
-## Diagram & Visualization Tools
+- **[faker.tools](https://faker.tools/)** — 79 synthetic-data generators for testing and database seeding: realistic names, addresses, Luhn-valid cards, mod-97 IBANs, plus ready seed scripts for SQL, JSON, CSV, and GraphQL — every result reproducible from a seed.
+- **[JSON Crack](https://jsoncrack.com/)** — Open-source visualizer that turns JSON, YAML, and CSV into interactive node graphs.
+- **[Hoppscotch](https://hoppscotch.io/)** — An open-source, in-browser API client for REST, GraphQL, and WebSocket requests.
+- **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** — A free fake REST API for testing and prototyping front-end code.
 
-- [Mermaid Diagram Editor](https://www.tools-online.app/tools/mermaid) - Online Mermaid diagram editor with real-time preview, multiple diagram types, and AI assistance.
-- [GraphViz DOT Editor](https://www.tools-online.app/tools/graphviz) - Online GraphViz DOT editor with real-time preview, multiple layout engines, and AI diagram generation.
+## Security & Cryptography
 
-## Comparison & Analysis Tools
+- **[encrypt.tools](https://encrypt.tools/)** — 60+ cryptography tools covering AES-256, RSA/ECC and Ed25519 key generation, SHA/BLAKE hashing, HMAC, PGP, and classical ciphers from Caesar to Enigma — built on the Web Crypto API and audited libraries.
+- **[apikey.tools](https://apikey.tools/)** — 64 tools for API keys, tokens, and secrets: CSPRNG key generation, JWT and HMAC debugging, secret scanning, webhook signatures, and ready `.env` / Kubernetes / Terraform config output.
+- **[Bitwarden](https://bitwarden.com/)** — An open-source password manager with generators for strong passwords and passphrases.
+- **[Have I Been Pwned](https://haveibeenpwned.com/)** — Check whether your email or password has appeared in a known data breach.
 
-- [Data Comparison Tool](https://www.tools-online.app/tools/comparison) - Online data comparison tool with Excel/CSV import, interactive column mapping, and visual difference highlighting.
-- [Text Compare Tool](https://www.tools-online.app/tools/text-compare) - Compare text files and documents online with dynamic change summary, multi-factor complexity scoring, and security-focused character detection.
-- [JSON Compare Tool](https://www.tools-online.app/tools/json-compare) - Compare JSON files with semantic analysis, tree view of changes, and property-level merge editor.
-- [Code Compare Tool](https://www.tools-online.app/tools/code-compare) - Compare source code with semantic analysis, VS Code-style line merge, and intelligent merging for JavaScript, TypeScript, Python, Java, and C#.
-- [YAML Compare Tool](https://www.tools-online.app/tools/yaml-compare) - Compare YAML files with structure preservation, comment handling, and anchor/alias support for DevOps configurations.
+## URLs, Slugs & SEO
 
-## File Management Tools
+- **[slug.tools](https://slug.tools/)** — A URL and slug toolkit: slug generator, bulk CSV slugifier, UTM campaign builder, URL parser, tracking-parameter cleaner, SERP snippet preview, and URL-safe Base64.
+- **[Slugme.io](https://slugme.io/)** — A focused, client-side URL slug generator with language-aware handling for Arabic, French, Spanish, and English — normalizing accents and diacritics where generic slugifiers break.
+- **[Lighthouse](https://developer.chrome.com/docs/lighthouse/)** — Google's open-source auditor for performance, accessibility, SEO, and best practices.
+- **[Unlighthouse](https://unlighthouse.dev/)** — Open-source tool that runs Lighthouse across every page of a site in one scan.
 
-- [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
-- [TinyMast PDF Compressor](https://tinymast.com/pdf-compress/) - Compresses PDFs to a target size, with merge, split, OCR, and conversion; uploads deleted within 24 hours.
+## Time & Date
 
-## DevOps & System Tools
+- **[worldclock.tools](https://worldclock.tools/)** — Live local time for 34,000+ cities, a cross-timezone meeting planner, and 36 converters, timers, and developer utilities — all computed from the IANA time zone database.
+- **[duration.tools](https://duration.tools/)** — 32 time and duration calculators: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
+- **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
 
-- [Cron Expression Generator](https://www.tools-online.app/tools/cron) - Visual crontab generator with real-time preview, plain English descriptions, and common schedule templates.
-- [World Time Zone Converter](https://www.tools-online.app/tools/timezone) - Online timezone converter with multi-zone comparison, business hours visualization, and DST smart detection.
+## Files, PDF & Media
 
-## Contributing
+- **[split.tools](https://split.tools/)** — Split files locally: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline — with batch export and nothing uploaded.
+- **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations: merge, split, convert, compress, OCR, and more.
+- **[TinyMast](https://tinymast.com/pdf-compress/)** — Free online PDF and image tools that compress to a size you set: batch image compression with per-file KB targets and ZIP download, plus PDF merge, split, OCR, and Word/Excel/JPG conversion. No account and no watermark.
+- **[Squoosh](https://squoosh.app/)** — An open-source image compressor and converter (from the Google Chrome team) with a live before/after comparison.
+- **[HandBrake](https://handbrake.fr/)** — An open-source video transcoder for converting almost any format into modern, efficient files.
 
-Found an amazing online tool that should be included? Please see
-[CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+## Images, Icons & Design
+
+- **[collage.tools](https://collage.tools/)** — A photo collage maker with smart grid layouts, seamless social carousels, before/after comparison sliders, and freeform moodboards with on-device color-palette extraction.
+- **[favicon.tools](https://favicon.tools/)** — Generate a full favicon set from any image, emoji, or text, convert an existing logo, or audit what a live site serves. Outputs `favicon.ico`, Apple touch icons, a web manifest, and the ready HTML snippet.
+- **[Excalidraw](https://excalidraw.com/)** — An open-source, hand-drawn-style whiteboard for diagrams, wireframes, and quick sketches.
+- **[tldraw](https://tldraw.com/)** — A fast, collaborative infinite canvas for drawing and diagramming.
+- **[GIMP](https://www.gimp.org/)** — The open-source, full-featured raster image editor — a free alternative to Photoshop.
+- **[Lucide](https://lucide.dev/)** — A beautiful, consistent, open-source icon toolkit.
+- **[Coolors](https://coolors.co/)** — A super-fast color palette generator; press spacebar for instant combinations.
+
+## QR & Business Cards
+
+- **[QrFast.io](https://qrfast.io/)** — A QR code generator covering 18+ content types (URL, WiFi, vCard, WhatsApp, crypto, event) with live preview, full styling and a center logo, plus PNG/SVG/JPEG/WEBP export.
+- **[CarteVisite.io](https://cartevisite.io/)** — A double-sided business card maker that runs in the browser: full typography control, logo import, colorable icons, a built-in QR flow, and print-ready high-resolution export.
+
+## Resume & Career
+
+- **[Cviya.com](https://cviya.com/)** — A 100% free, ATS-friendly CV builder with a drag-and-drop editor, live preview, AI-assisted writing, and clean PDF/PNG export — multilingual (EN, FR, ES, AR, DE) with full right-to-left support.
+- **[Reactive Resume](https://rxresu.me/)** — A free, open-source resume builder with dozens of templates and no tracking.
+- **[OpenResume](https://www.open-resume.com/)** — An open-source resume builder and ATS-readiness checker.
+
+## Arabic & Typography
+
+- **[Arabify.io](https://arabify.io/)** — An Arabic calligraphy studio and logo maker: type any Arabic text, choose an authentic hand (Kufic, Naskh, Diwani, Nastaliq), and export images, brand wordmarks, or animated video — with full harakat.
+- **[Khatly.com](https://khatly.com/)** — An Arabic-native calligraphy generator (Kufic, Naskh, Diwani) with full harakat, premium backgrounds and gradients, live color controls, and high-resolution export for print or web.
+- **[Arabizi.io](https://arabizi.io/)** — An online Arabic keyboard with real-time Latin-to-Arabic (Arabizi) transliteration, a full tashkeel row, and one-tap sharing to WhatsApp, Telegram, and X.
+- **[Fontsource](https://fontsource.org/)** — Open-source, self-hostable web fonts you can install straight from npm.
+- **[Google Fonts](https://fonts.google.com/)** — A large library of free, open-source web fonts.
+
+## Islamic Tools
+
+- **[Falah.io](https://falah.io/)** — A free, open-source Islamic toolkit of 15 tools: prayer times, Qibla finder, Hijri calendar, Zakat and inheritance calculators, and a Qur'an explorer and more — no accounts, no ads, or tracking.
+- **[Quran.com](https://quran.com/)** — An open-source Qur'an reader with translations, recitations, and word-by-word study.
+- **[Aladhan](https://aladhan.com/)** — A free prayer-times and Islamic-calendar service with a well-documented public API.
+
+## Education & Learning
+
+- **[Jami3a.com](https://jami3a.com/)** — An education platform that gives students a single place to explore university programs, departments, and academic resources.
+- **[freeCodeCamp](https://www.freecodecamp.org/)** — Free, open-source coding curricula with hands-on projects and certifications.
+- **[The Odin Project](https://www.theodinproject.com/)** — A free, open-source full-stack curriculum built around real projects.
+- **[MDN Web Docs](https://developer.mozilla.org/)** — The open reference for web standards: HTML, CSS, JavaScript, and browser APIs.
+
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. Open a pull request to add a free tool — bonus points if it's open source, client-side, or needs no sign-up. Keep descriptions to one concrete line and put each tool in the right section.
+
+## 📄 License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, contributors have waived all copyright to this list (CC0).
